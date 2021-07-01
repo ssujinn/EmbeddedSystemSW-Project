@@ -1,0 +1,1 @@
+cmd_/home/embe/20171640/module/stopwatch.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx_kernel/scripts/module-common.lds --build-id  -o /home/embe/20171640/module/stopwatch.ko /home/embe/20171640/module/stopwatch.o /home/embe/20171640/module/stopwatch.mod.o

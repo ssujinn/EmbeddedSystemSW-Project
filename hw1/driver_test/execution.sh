@@ -1,0 +1,9 @@
+arm-none-linux-gnueabi-gcc -static -o fpga_test_buzzer fpga_test_buzzer.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_dip_switch fpga_test_dip_switch.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_dot fpga_test_dot.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_fnd fpga_test_fnd.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_led fpga_test_led.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_push_switch fpga_test_push_switch.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_text_lcd fpga_test_text_lcd.c
+arm-none-linux-gnueabi-gcc -static -o fpga_test_step_motor fpga_test_step_motor.c
+arm-none-linux-gnueabi-gcc -static -o readkey readkey.c
